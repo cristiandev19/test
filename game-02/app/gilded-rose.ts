@@ -1,5 +1,8 @@
 import { Item } from "./Item";
 
+/**
+ * A fin de cuentas esta es la forma que mas me gusto de trabajar este problema
+ */
 
 // Cree una interface para tener un "contrato" de que implementaciones tiene que tener
 interface IGildedRoseUseCase {
